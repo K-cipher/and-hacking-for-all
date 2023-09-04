@@ -6,7 +6,7 @@ permalink: /about/
 
 
 ```
-<span style="color: #00aa00;"># whoami</span>
+<p style="color:green;"># whoami</p>
 security analyst
 hacker
 pentester
