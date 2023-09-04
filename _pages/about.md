@@ -7,7 +7,7 @@ toc: true
 
 
 ```
-<div style="color:green;"># whoami</div>
+# whoami
 security analyst
 hacker
 pentester
