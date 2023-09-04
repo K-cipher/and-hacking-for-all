@@ -6,8 +6,8 @@ permalink: /about/
 
 
 ```
-# whoami
-Security analyst
+<span style="color: #00aa00;"># whoami</span>
+security analyst
 hacker
 pentester
 programmer

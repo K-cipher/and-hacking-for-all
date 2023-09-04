@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Hacking Crush Course
 permalink: /hacking-crash-course/
 ---
