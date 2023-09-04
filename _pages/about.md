@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-# O mnie
 
 ```
 # whoami
-Security analyst, hacker, pentester, programmer, bloger
+Security analyst
+hacker
+pentester
+programmer
+bloger
 ```

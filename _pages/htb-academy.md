@@ -1,6 +1,6 @@
 ---
 layout: single
-title: HTB Acadent
+title: HTB Academy
 permalink: /htb-academy/
 ---
-# HTB Academy
+
