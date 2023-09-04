@@ -1,11 +1,15 @@
 # main links
 main:
+  - title: "Hacking Crush Course"
+    url: https://K-cipher.github.io/and-hacking-for-all/_pages/hacking-crush-course.md/
   - title: "HTB Academy"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "PortSwigger Academy"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "PortSwigger Academy"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  #- title: "eJPTv2"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://K-cipher.github.io/and-hacking-for-all/_pages/about.md/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
