@@ -2,12 +2,10 @@
 layout: single
 title: About
 permalink: /about/
-toc: true
 ---
 
-
 ```
-# whoami
+root:~# whoami
 security analyst
 hacker
 pentester
